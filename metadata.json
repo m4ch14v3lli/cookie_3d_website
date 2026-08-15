@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Confections",
+  "description": "A premium grid layout inspired by a luxury cookie gift box.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
